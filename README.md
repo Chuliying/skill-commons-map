@@ -4,6 +4,7 @@
 execution mode／artifact 契約、人工 Gate 與驗證邊界。
 
 - 權威來源：[`Chuliying/skill-commons`](https://github.com/Chuliying/skill-commons)
+- 正式網站：[`skill-commons-map.vercel.app`](https://skill-commons-map.vercel.app)
 - 部署內容：單一自足的 [`index.html`](index.html)，沒有 runtime package 或外部 asset
 - 生成方式：由 source repo 的 `scripts/repo_visual.py render --source-base ...` 產生
 
